@@ -1,0 +1,13 @@
+C:\BUAP\Tareas\C#-essencial\bin\Debug\netcoreapp3.1\C#-essencial.exe
+C:\BUAP\Tareas\C#-essencial\bin\Debug\netcoreapp3.1\C#-essencial.deps.json
+C:\BUAP\Tareas\C#-essencial\bin\Debug\netcoreapp3.1\C#-essencial.runtimeconfig.json
+C:\BUAP\Tareas\C#-essencial\bin\Debug\netcoreapp3.1\C#-essencial.runtimeconfig.dev.json
+C:\BUAP\Tareas\C#-essencial\bin\Debug\netcoreapp3.1\C#-essencial.dll
+C:\BUAP\Tareas\C#-essencial\bin\Debug\netcoreapp3.1\C#-essencial.pdb
+C:\BUAP\Tareas\C#-essencial\obj\Debug\netcoreapp3.1\C#-essencial.csprojAssemblyReference.cache
+C:\BUAP\Tareas\C#-essencial\obj\Debug\netcoreapp3.1\C#-essencial.AssemblyInfoInputs.cache
+C:\BUAP\Tareas\C#-essencial\obj\Debug\netcoreapp3.1\C#-essencial.AssemblyInfo.cs
+C:\BUAP\Tareas\C#-essencial\obj\Debug\netcoreapp3.1\C#-essencial.csproj.CoreCompileInputs.cache
+C:\BUAP\Tareas\C#-essencial\obj\Debug\netcoreapp3.1\C#-essencial.dll
+C:\BUAP\Tareas\C#-essencial\obj\Debug\netcoreapp3.1\C#-essencial.pdb
+C:\BUAP\Tareas\C#-essencial\obj\Debug\netcoreapp3.1\C#-essencial.genruntimeconfig.cache
