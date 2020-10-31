@@ -11,7 +11,7 @@ namespace CoreEscuela
         public void Timbrar()
         {
             //do
-            Console.Beep(20000,3000);
+            Console.Beep(0000,3000);
         }
     }
     class Program
