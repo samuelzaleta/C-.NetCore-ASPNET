@@ -1,0 +1,13 @@
+C:\BUAP\Tareas\C#-essencial\CoreEscuela\bin\Debug\netcoreapp3.1\CoreEscuela.exe
+C:\BUAP\Tareas\C#-essencial\CoreEscuela\bin\Debug\netcoreapp3.1\CoreEscuela.deps.json
+C:\BUAP\Tareas\C#-essencial\CoreEscuela\bin\Debug\netcoreapp3.1\CoreEscuela.runtimeconfig.json
+C:\BUAP\Tareas\C#-essencial\CoreEscuela\bin\Debug\netcoreapp3.1\CoreEscuela.runtimeconfig.dev.json
+C:\BUAP\Tareas\C#-essencial\CoreEscuela\bin\Debug\netcoreapp3.1\CoreEscuela.dll
+C:\BUAP\Tareas\C#-essencial\CoreEscuela\bin\Debug\netcoreapp3.1\CoreEscuela.pdb
+C:\BUAP\Tareas\C#-essencial\CoreEscuela\obj\Debug\netcoreapp3.1\CoreEscuela.csprojAssemblyReference.cache
+C:\BUAP\Tareas\C#-essencial\CoreEscuela\obj\Debug\netcoreapp3.1\CoreEscuela.AssemblyInfoInputs.cache
+C:\BUAP\Tareas\C#-essencial\CoreEscuela\obj\Debug\netcoreapp3.1\CoreEscuela.AssemblyInfo.cs
+C:\BUAP\Tareas\C#-essencial\CoreEscuela\obj\Debug\netcoreapp3.1\CoreEscuela.csproj.CoreCompileInputs.cache
+C:\BUAP\Tareas\C#-essencial\CoreEscuela\obj\Debug\netcoreapp3.1\CoreEscuela.dll
+C:\BUAP\Tareas\C#-essencial\CoreEscuela\obj\Debug\netcoreapp3.1\CoreEscuela.pdb
+C:\BUAP\Tareas\C#-essencial\CoreEscuela\obj\Debug\netcoreapp3.1\CoreEscuela.genruntimeconfig.cache
