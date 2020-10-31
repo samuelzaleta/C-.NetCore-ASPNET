@@ -1,10 +1,12 @@
-using system;
-namespace platziHelloWorld
+﻿using System;
+
+namespace C__essencial
 {
-    class Program{
+    class Program
+    {
         static void Main(string[] args)
         {
-            Console.WriteLie("Hola mundo");
+            Console.WriteLine("Hello World!");
         }
     }
 }
